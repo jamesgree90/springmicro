@@ -11,8 +11,8 @@ spring:
   datasource:
     url: "jdbc:mysql://localhost:3306/itemsharingdatabase"
     username: "root"
-#    password: "{cipher}e18c5943406e4497681dd62e5eb840793372d3cfdbe60096395f08f14f4d8010"
-    password: "jhkoo1346"
+    password: "{cipher}e18c5943406e4497681dd62e5eb840793372d3cfdbe60096395f08f14f4d8010"
+#    password: "jhkoo1346"
     driverClassName: "com.mysql.jdbc.Driver"
     testWhileIdle: "true"
     validationQuery: "SELECT 1"
